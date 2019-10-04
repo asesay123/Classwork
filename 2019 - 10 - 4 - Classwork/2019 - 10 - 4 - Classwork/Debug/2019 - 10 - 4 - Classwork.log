@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\asesay\Desktop\2019 - 10 - 4 - Classwork\2019 - 10 - 4 - Classwork\main.cpp(13,85): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\asesay\Desktop\2019 - 10 - 4 - Classwork\2019 - 10 - 4 - Classwork\main.cpp(14,99): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\asesay\Desktop\2019 - 10 - 4 - Classwork\2019 - 10 - 4 - Classwork\main.cpp(22,26): error C2065:  'C': undeclared identifier
